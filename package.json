@@ -1,0 +1,23 @@
+{
+  "name": "workshop-4",
+  "version": "0.1.0",
+  "description": "node.js project EAM",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
